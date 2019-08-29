@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\U001964\\Desktop\\projetos\\csharp\\projetos\\Composition\\Composition\\Composition.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\U001964\\Desktop\\projetos\\csharp\\projetos\\Composition\\Composition\\Composition.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\U001964\\Desktop\\projetos\\csharp\\projetos\\Composition\\Composition\\Composition.csproj",
+        "projectName": "Composition",
+        "projectPath": "C:\\Users\\U001964\\Desktop\\projetos\\csharp\\projetos\\Composition\\Composition\\Composition.csproj",
+        "packagesPath": "C:\\Users\\U001964\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\U001964\\Desktop\\projetos\\csharp\\projetos\\Composition\\Composition\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\U001964\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://xpinvestimentos.pkgs.visualstudio.com/_packaging/PackagesXP/nuget/V3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
